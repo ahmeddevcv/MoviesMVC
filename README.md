@@ -1,3 +1,27 @@
+**## 📸 Screenshots**
+
+
+
+**### 🏠 Home Page**
+
+**!\[Home Page](Screenshots/1.moviesHome.png)**
+
+
+
+**### ➕ Add Movie**
+
+**!\[Add Movie](Screenshots/2.create-movie.png)**
+
+
+
+**### ✏️ Edit Movie**
+
+**!\[Edit Movie](Screenshots/4.edit-movie.png)**
+
+
+
+
+
 **# 🎬 Movies MVC Project**
 
 
@@ -45,6 +69,4 @@
 
 
 **## 🗂️ Project Structure**
-
-
 
