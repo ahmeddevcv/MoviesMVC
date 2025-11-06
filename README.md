@@ -5,19 +5,19 @@
 **### 🏠 Home Page**
 
 **!\[Home Page](Screenshots/1.movies-home.png)**
-
+<img width="1719" height="1079" alt="1 movies-home" src="https://github.com/user-attachments/assets/ec8da7e4-0c95-419d-8410-02ba1b095179" />
 
 
 **### ➕ Add Movie**
 
 **!\[Add Movie](screenshots/2.create-movie.png)**
-
+<img width="1231" height="928" alt="2 create-movie" src="https://github.com/user-attachments/assets/d21ee10a-8f24-4ceb-bcee-df9b74689ba2" />
 
 
 **### ➕ Details Movie**
 
-**!\[Add Movie](screenshots/3.deatails-movie.png)**
-
+**!\[Details Movie](screenshots/3.deatails-movie.png)**
+<img width="1681" height="915" alt="3 deatails-movie" src="https://github.com/user-attachments/assets/27503370-6ad7-4a6d-b131-b1fd8c56eee1" />
 
 
 
@@ -25,6 +25,7 @@
 **### ✏️ Edit Movie**
 
 **!\[Edit Movie](screenshots/4.edit-movie.png)**
+<img width="1141" height="978" alt="4 edit-movie" src="https://github.com/user-attachments/assets/aa2786af-5ee6-4c0e-86f3-2f4ca448a7c0" />
 
 
 
