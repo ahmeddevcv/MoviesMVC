@@ -4,19 +4,29 @@
 
 **### 🏠 Home Page**
 
-**!\[Home Page](Screenshots/1.moviesHome.png)**
+**!\[Home Page](Screenshots/1.movies-home.png)**
 
 
 
 **### ➕ Add Movie**
 
-**!\[Add Movie](Screenshots/2.create-movie.png)**
+**!\[Add Movie](screenshots/2.create-movie.png)**
+
+
+
+**### ➕ Details Movie**
+
+**!\[Add Movie](screenshots/3.deatails-movie.png)**
+
+
 
 
 
 **### ✏️ Edit Movie**
 
-**!\[Edit Movie](Screenshots/4.edit-movie.png)**
+**!\[Edit Movie](screenshots/4.edit-movie.png)**
+
+
 
 
 
